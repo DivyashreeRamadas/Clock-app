@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clock{
+  background-color: aquamarine;
+}
+
+h1{
+  color: darkslategrey;
+  text-align: center;
+}
+
+.timer{
+  font-size:100px;
+  text-align: center;
+}
+
+body{
+  background-color: aquamarine;
+}
